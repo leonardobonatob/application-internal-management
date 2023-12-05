@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1000 1000" width="800" height="500" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Acme">@import url(https://fonts.googleapis.com/css2?family=Acme%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <text style="fill: rgb(51, 51, 51); font-family: Acme; font-size: 340px; font-weight: 700; letter-spacing: -0.6px; word-spacing: 16px; white-space: pre;" x="-300.029" y="333.553" transform="matrix(1.0000000000000002, 0, 0, 1.0000000000000002, 0, 7.105427357601002e-15)">Eduquation</text>
+  <text style="fill: rgb(248, 3, 3); font-family: Acme; font-size: 318px; white-space: pre;" x="-147.908" y="600.843" transform="matrix(1.0000000000000002, 0, 0, 1.0000000000000002, 0, 7.105427357601002e-15)">CRM/ERP</text>
+</svg>

@@ -1,0 +1,79 @@
+[
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_name",
+    "settingValue": "Eduquation",
+    "valueType": "string",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_logo",
+    "settingValue": "https://www.Eduquationapp.com/Theme/Eduquation-no-code-app/assets/img/Eduquation-ai-no-code-app-logo.svg",
+    "valueType": "string",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_address",
+    "settingValue": "Estrada dos Alvarengas, SBC - SP",
+    "valueType": "string",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_email",
+    "settingValue": "eduquationsolutions@gmail.com",
+    "valueType": "string",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_phone",
+    "settingValue": "+55 345234654",
+    "valueType": "string",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_cell",
+    "settingValue": "+55 345234654",
+    "valueType": "string",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_website",
+    "settingValue": "www.eduquation.portal.edu",
+    "valueType": "string",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_country",
+    "settingValue": "Brazil",
+    "valueType": "string",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_tax_number",
+    "settingValue": "91231255234",
+    "valueType": "string",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_vat_number",
+    "settingValue": "91231255234",
+    "valueType": "string",
+    "isCoreSetting": true
+  },
+  {
+    "settingCategory": "company_settings",
+    "settingKey": "company_reg_number",
+    "settingValue": "00001231421",
+    "valueType": "string",
+    "isCoreSetting": true
+  }
+]
